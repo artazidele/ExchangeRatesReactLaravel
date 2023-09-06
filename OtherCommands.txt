@@ -1,0 +1,2 @@
+To update database everyday, I used Terminal command "php artisan schedule:work".
+This repository doesn't contain folder /trodoreact/node_modules.
